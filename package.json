@@ -1,0 +1,31 @@
+{
+  "name": "@ocean28799/react-native-animated-searchbox",
+  "version": "1.0.1",
+  "description": "A animated search box for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocean28799/react-native-animated-searchbox.git"
+  },
+  "keywords": [
+    "animated-search",
+    "react-native-component",
+    "react-component",
+    "react-native",
+    "ios",
+    "search",
+    "animated",
+    "search-box",
+    "animation",
+    "ocean28799"
+  ],
+  "author": "Tran Anh Duc <ocean28799>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ocean28799/react-native-animated-searchbox/issues"
+  },
+  "homepage": "https://github.com/ocean28799/react-native-animated-searchbox#readme"
+}
